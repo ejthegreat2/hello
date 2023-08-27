@@ -3,8 +3,9 @@
 
 int main(int argc, char **argv) {
 
-    printf("Evan James\n");
- printf("Alexis Mendez!\n");
-  printf("Computer Science\n");
+    printf("My major is computer science!\n");
+    printf("Evan James!\n");
+    printf("My major is Computer Science!\n");
+    printf("Alexis Mendez\n");
     return 0;
 }
